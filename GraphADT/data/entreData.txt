@@ -1,0 +1,7 @@
+entre01 Sam Shoe 80 56x57
+entre02 Peter Fruits_and_verg 84 142x172
+entre03 Wayne clothes 65 78x286
+entre04 herry electronics 93 237x114
+entre05 mark fruits 50 290x234
+entre06 james clothes 59 226x363
+entre07 Tim FastFood 59 399x152

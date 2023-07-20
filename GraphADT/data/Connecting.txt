@@ -1,0 +1,7 @@
+entre02@entre04@100
+entre02@entre03@60
+entre02@entre01@50
+entre01@entre05@16
+entre03@entre07@86
+entre05@entre06@41
+test@entre05@76
